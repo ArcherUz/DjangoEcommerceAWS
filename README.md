@@ -1,2 +1,3 @@
 # DjangoEcommerceAWS
-live : https://archeruz.github.io/DjangoEcommerceAWS/
+
+This course teaches Django web development through a project-based approach. It begins with basic Django fundamentals, including creating an employee directory and a TODO app. The main project involves building a fully-featured eCommerce website with custom user models, product categories, cart functionality, order processing, payment integration, and a review and rating system. Learners will also handle account functionalities, secure validation links, and Django security measures. Deployment on AWS Elastic Beanstalk is included. Pre-existing knowledge of Python and basic HTML/CSS is beneficial. Note: this course aims for learning purposes and might not provide a complete eCommerce solution for live businesses.
