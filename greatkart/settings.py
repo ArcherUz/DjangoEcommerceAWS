@@ -148,8 +148,8 @@ MESSAGE_TAGS={
 }
 
 
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'pcyraventac@gmail.com'
-EMAIL_HOST_PASSWORD = 'olmnsaidltpcwlfe'
+EMAIL_HOST = *
+EMAIL_PORT = *
+EMAIL_HOST_USER = *
+EMAIL_HOST_PASSWORD = *
 EMAIL_USE_TLS = True
